@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Devika B</h1>
 <h3 align="center">A passionate learner who loves to code!</h3>
 
