@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devika B</h1>
 <h3 align="center">A passionate learner who loves to code!</h3>
 
-- 🌱 I’m currently learning **React, NodeJS**
+- 🌱 I’m currently learning **React, Flask, DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dev221b?tab=repositories](https://github.com/dev221b?tab=repositories)
 
